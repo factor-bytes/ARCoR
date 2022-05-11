@@ -1,6 +1,6 @@
 ﻿namespace ARCoR.Data
 {
-    public class Class1
+    public class DatabaseContext 
     {
 
     }
